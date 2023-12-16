@@ -4,9 +4,14 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
-
+console.log("Hello World!");
+console.log("Hello, my name is Tim.");
+console.log(8 + 9);
+console.log("Hello World!" + " My name is Tim!");
+console.log('"Hello World!" said the raven Quoth.');
+console.log("Hello World!" + " you should know that 350 plus 350 is " + (350 + 350) + "."  );
 /*  
+
 Next, PLAY! 
 Modify your code on line 7 to try to accomplish the tasks listed below:
 
